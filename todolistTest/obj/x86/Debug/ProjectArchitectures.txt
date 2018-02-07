@@ -1,0 +1,2 @@
+C:\Users\paulb\Documents\DotNet_todolist_2017\todolist\todolist.csproj;x86
+C:\Users\paulb\Documents\DotNet_todolist_2017\todolistTest\todolistTest.csproj;x86
